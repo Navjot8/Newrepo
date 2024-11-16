@@ -350,7 +350,7 @@ width: 350px;
     color: #fff;
     padding: 5px 10px;
     font-weight: bold;
-    
+    font-size: 18px;
     font-family: "Roboto", "Helvetica", "Sans-serif";
     cursor: pointer;
     transition: all 0.3s ease;
